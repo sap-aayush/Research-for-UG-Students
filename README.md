@@ -1,3 +1,59 @@
+### Hello Research Fellas,
+To help aid your research internship process, we have compiled below a list of programmes that you can apply for your summer internships.We've carefully selected esteemed programs across a variety of locations and research domains. So dont miss out the opportunity to get an incredible intern at one of these programmes
+
+UCLA RIPS : 
+Domain: Mathematical Science and Computing
+Eligibility: All Years
+Documents: SOP,Transcript, Reference Letters(2),Resume
+Deadline date - 12th February,2024
+Duration - 9 weeks 
+Link- https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023-los-angeles/?tab=overview
+
+IST AUSTRIA: 
+Domain: STEM Branches
+Eligibility: 2,3,4 (IDD) Years Students
+Documents: SOP,Transcript, Reference Letters(2),Resume
+Deadline date - 15th February,2024
+Duration - 8-12 weeks 
+Link- https://phd.pages.ist.ac.at/isternship/
+
+THINKSWISS ASIA PACIFIC: 
+Domain: Antimicrobial Research (AMR), One Health, Biodiversity/Climate Change
+Eligibility: 2,3,4 (IDD) Years Students
+Documents: SOP, Transcript, Reference Letters, Resume
+Deadline date - 16th February,2024
+Duration - 8-12 weeks
+Link- https://swissnex.org/india/thinkswiss/
+ 
+CALTECH SURF : 
+Domain: STEM Branches
+Eligibility: All Years
+Documents: Research Proposal, Transcript, Reference Letters(2), Resume
+Deadline date - 22nd February,2024
+Duration - 10 weeks 
+Link- https://sfp.caltech.edu/undergraduateresearch/programs/surf/application_information
+
+MBUZAI: 
+Domain: AI,ML,NLP and Computer Vision
+Eligibility: 3,4 (IDD) Years Students
+Documents: SOP, Transcript, Reference Letters, Resume
+Deadline date - 29th February,2024
+Duration - 4 weeks
+Link- https://mbzuai.ac.ae/ugrip/
+ 
+CHARPAK: 
+Domain: STEM Branches
+Eligibility: All Years
+Documents: C.V(2 Pages), Transcript, Reference Letters
+Deadline date - 13th February, 2024
+Duration - 8 weeks 
+Link- https://www.inde.campusfrance.org/france-excellence-charpak-lab-scholarship/
+
+Happy Researching !!
+
+
+
+
 # Research-for-UG-Students
 ⭐ the repo so you don't lose it later :)
 
